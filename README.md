@@ -4,7 +4,6 @@ By: **Ahsan Baseer**
 
 **Wordle** is a word-guessing game, now with new updates. Now, the users can explore various word themes such as animals, countries, or the classic 'normal' theme. They have the flexibility to adjust the number of guesses allowed and the length of the goal word. For those seeking an extra challenge, Wordle introduces an alien mode where the goal word changes with each guess, adding an element of unpredictability. Players can now, reset the game at any point, allowing them to start over.
 
-Time spent: **2** hours spent in total
 
 ## Features
 
